@@ -1,9 +1,9 @@
-import App from "./App";
+import App from "../src/App";
 import {
   fetchAllPokemons,
   fetchPokemonByName,
   fetchPokemonById,
-} from "./services/pokemon";
+} from "../src/services/pokemon";
 import userEvent from "@testing-library/user-event";
 import { render, waitFor } from "@testing-library/react";
 

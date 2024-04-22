@@ -3,7 +3,7 @@ import {
   fetchAllPokemons,
   fetchPokemonByName,
   fetchPokemonById,
-} from "./pokemon";
+} from "../src/services/pokemon";
 enableFetchMocks();
 
 /*FetchAll Pokemons*/
