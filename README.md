@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application is a Pokémon search tool that allows users to find Pokémon by name and navigate through their details. It was created to provide a seamless and intuitive way for Pokémon enthusiasts to explore detailed data about their favorite Pokémon. The app leverages the comprehensive Pokémon API to pull data dynamically, featuring real-time searching, detail display, navigation through Pokémon entries, and efficient API usage through caching.
+This application is a Pokémon search tool that allows users to find Pokémon by name and navigate through their details. It's built with React and uses data fetched from the Pokémon API. Features include real-time searching, detail display, navigation through Pokémon entries, and efficient API usage through caching.
 
 ## Technologies Used
 
